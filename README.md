@@ -15,3 +15,5 @@ Segment the customer population:- Create categories like new, Existing, and Loya
 Customer Risk Profiling: Customer risk profiling is essential! I've identified high-risk segments based on location, and purchasing behavior, allowing us to enhance our targeted retention efforts.
 
 Customer Value Prediction Analysis:-Our Customer Lifetime Value Modeling involves leveraging customer insights to predict their long-term value, which helps us design effective marketing and loyalty strategies.
+
+Power BI was crucial in transforming these insights into clear visualizations, and creating actionable dashboards that showcase key trends and metrics.
